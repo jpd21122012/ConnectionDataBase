@@ -1,0 +1,7 @@
+C:\Users\Necrophagia\Documents\Visual Studio 2015\Projects\PruebaConexionbd\PruebaConexionbd\bin\Debug\PruebaConexionbd.exe.config
+C:\Users\Necrophagia\Documents\Visual Studio 2015\Projects\PruebaConexionbd\PruebaConexionbd\bin\Debug\PruebaConexionbd.exe
+C:\Users\Necrophagia\Documents\Visual Studio 2015\Projects\PruebaConexionbd\PruebaConexionbd\bin\Debug\PruebaConexionbd.pdb
+C:\Users\Necrophagia\Documents\Visual Studio 2015\Projects\PruebaConexionbd\PruebaConexionbd\obj\Debug\PruebaConexionbd.csprojResolveAssemblyReference.cache
+C:\Users\Necrophagia\Documents\Visual Studio 2015\Projects\PruebaConexionbd\PruebaConexionbd\obj\Debug\PruebaConexionbd.exe
+C:\Users\Necrophagia\Documents\Visual Studio 2015\Projects\PruebaConexionbd\PruebaConexionbd\obj\Debug\PruebaConexionbd.pdb
+C:\Users\Necrophagia\Documents\Visual Studio 2015\Projects\PruebaConexionbd\PruebaConexionbd\bin\Debug\MySql.Data.dll

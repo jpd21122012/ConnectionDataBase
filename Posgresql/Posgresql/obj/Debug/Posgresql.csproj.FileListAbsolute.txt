@@ -1,0 +1,16 @@
+c:\users\necrophagia\documents\visual studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Posgresql.exe.config
+C:\Users\Necrophagia\documents\visual studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Posgresql.exe
+C:\Users\Necrophagia\documents\visual studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Posgresql.pdb
+C:\Users\Necrophagia\documents\visual studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Npgsql.dll
+C:\Users\Necrophagia\documents\visual studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Npgsql.xml
+C:\Users\Necrophagia\documents\visual studio 2015\Projects\Posgresql\Posgresql\obj\Debug\Posgresql.csprojResolveAssemblyReference.cache
+C:\Users\Necrophagia\documents\visual studio 2015\Projects\Posgresql\Posgresql\obj\Debug\Posgresql.exe
+C:\Users\Necrophagia\documents\visual studio 2015\Projects\Posgresql\Posgresql\obj\Debug\Posgresql.pdb
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Posgresql.exe.config
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\Posgresql\Posgresql\obj\Debug\Posgresql.exe
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\Posgresql\Posgresql\obj\Debug\Posgresql.pdb
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Posgresql.exe
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Posgresql.pdb
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Npgsql.dll
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\Posgresql\Posgresql\bin\Debug\Npgsql.xml
+C:\Users\slipk\Documents\Visual Studio 2015\Projects\Posgresql\Posgresql\obj\Debug\Posgresql.csprojResolveAssemblyReference.cache
